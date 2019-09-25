@@ -1,7 +1,7 @@
 <?php
     include 'exer1.php';
         if ($lignes ===  10 ) {
-            echo ("TECHIO>".$output);
+            echo ("TECHIO> ".$output);
             echo("TECHIO> success true \r\n");
         } 
         else {
