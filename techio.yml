@@ -4,9 +4,9 @@ plan:
   statement: markdowns/welcome.md
 - title: Quiz
   statement: markdowns/quiz.md
-  projects:
-  first-project:
-    root: /formatPHP
-    runner:
-      name: php
-      version: latest
+projects:
+ first-project:
+   root: /formatPHP
+   runner:
+     name: php
+     version: latest
