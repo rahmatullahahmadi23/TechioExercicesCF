@@ -1,7 +1,7 @@
 <?php
     include 'exer1.php';
     function test() {
-        if ($lignes() ===  10 ) {
+        if ($lignes() ===  9 ) {
             echo("TECHIO> success true \r\n");
         } 
         else {
