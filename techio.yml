@@ -1,6 +1,12 @@
-title: Custom Template
+title: Exercice pour CF
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
 - title: Quiz
   statement: markdowns/quiz.md
+  projects:
+  first-project:
+    root: /php-template
+    runner:
+      name: php
+      version: latest
