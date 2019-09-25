@@ -6,7 +6,7 @@ plan:
   statement: markdowns/quiz.md
   projects:
   first-project:
-    root: /php-template
+    root: /formatPHP
     runner:
       name: php
       version: latest
