@@ -9,5 +9,5 @@
             echo("TECHIO> message --channel Oops! Try Again 🐞 \r\n");
         }
     }
-    test();
+   
 ?>
