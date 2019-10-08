@@ -5,7 +5,7 @@ plan:
 - title: Quiz
   statement: markdowns/quiz.md
 - title: Quiz2
-  statement: markdown/quiz2.md
+  statement: markdowns/quiz2.md
 projects:
  first-project:
    root: /formatPHP
